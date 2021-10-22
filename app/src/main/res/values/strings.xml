@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">digital_health</string>
+    <string name="splashName">Digital Health inc.</string>
+    <string name="WelcomeScreen">Welcome to the world of fitness</string>
+    <string name="UserName">Enter Username</string>
+    <string name="Password">Enter Password</string>
+    <string name="SignIn">Sign In !</string>
+    <string name="SignUp"><u><i>Do not have an account? Click here to register</i></u></string>
+    <string name="SignUpWelcome">Sign Up</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="Email">Email </string>
+    <string name="Password1">Password</string>
+    <string name="Password2">Re-enter Password</string>
+    <string name="Age">Age</string>
+    <string name="Height">Height (in cm)</string>
+    <string name="Weight">Weight (in kg)</string>
+    <string name="AlreadyUser"><u><i>Already a member? Click here to log in</i></u></string>
+</resources>
